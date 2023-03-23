@@ -1,4 +1,9 @@
 ----------------------------------
+03/23/2023
+Added blacklist for vehicles
+Moved all messages to config so you can set them how you like
+
+----------------------------------
 03/16/2023
 V1.5
 Added support for Advanced parking
