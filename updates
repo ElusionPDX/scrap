@@ -1,15 +1,11 @@
 ----------------------------------
-03/23/2023
-V1.6
-Added blacklist for vehicles
-Moved all messages to config so you can set them how you like
+4/13/23
+Fixed in use check so you can use the crusher when its already in use
 
 ----------------------------------
-03/16/2023
-V1.5
+Past changes
+Added blacklist for vehicles
+Moved all messages to config so you can set them how you like
 Added support for Advanced parking
-
----------------------------------
-V1.4
 Move code for forklift attachment. 
 Look in cl_open.lua in main folder to edit it how you like. 
