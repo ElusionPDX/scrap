@@ -1,9 +1,9 @@
 ----------------------------------
-4/13/23
-Fixed in use check so you can use the crusher when its already in use
-
+2/25
+Opened parts of the files, edit as needed for your framework.
 ----------------------------------
-Past changes
+Past changes:
+Fixed in use check so you can use the crusher when its already in use
 Added blacklist for vehicles
 Moved all messages to config so you can set them how you like
 Added support for Advanced parking
